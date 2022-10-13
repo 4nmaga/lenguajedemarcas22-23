@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE torneo_tenis>
+<torneo_tenis>
+    <torneo_tenis>
+        <fecha_inicio>13/10/2022</fecha_inicio>
+        <nombre>Torneo</nombre>
+        <fecha_finalizacion>23/10/2022</fecha_finalizacion>
+            <partido1>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido1>
+            <partido2>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido2>
+            <partido3>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido3>
+            <partido4>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido4>
+            <partido5>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido5>
+            <partido6>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido6>
+            <partido7>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido7>
+            <partido8>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido8>
+            <partido9>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+            </partido9>
+            <partido10>
+                <fecha_partido>13/10/2022</fecha_partido>
+                <jugador1>
+                     <datos_jugador nombre="a" dni="10000000a" edad="22"></datos_jugador>
+                </jugador1>
+                <jugador2>
+                    <datos_jugador nombre="b" dni="10000000b" edad="23"></datos_jugador>
+                </jugador2>
+                <sets set1="6/0" set2="6/0" set3="7/5"></sets>
+             </partido10>
+    </torneo_tenis>
+        
+</torneo_tenis>

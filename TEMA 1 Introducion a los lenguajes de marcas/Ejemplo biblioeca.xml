@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE biblioteca>
+<biblioteca>
+        <ejemplar>
+            <titulo></titulo>
+            <autor nombre="adasdasasd"></autor>
+            <fecha>adaasas</fecha>
+            <paginas>adadsdasda</paginas>
+        </ejemplar>
+        <ejemplar>
+            <titulo>adasdasd</titulo>
+            <autor nombre="adasasd"></autor>
+            <fecha>adsdasdasda</fecha>
+            <paginas>adasdasdasdasdas</paginas>
+        </ejemplar>
+        <ejemplar>
+            <titulo>adsadadasdas</titulo>
+            <autor nombre="adasdasdasdasd"></autor>
+            <fecha>adasdasdasdas</fecha>
+            <paginas>adasdsadasdas</paginas>
+        </ejemplar>
+        <ejemplar>
+            <titulo></titulo>
+            <autor nombre="Sebastien Lecomte"></autor>
+            <fecha></fecha>
+            <paginas></paginas>
+        </ejemplar>
+</biblioteca>
+
+
+
+

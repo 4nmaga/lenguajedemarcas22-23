@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE cluster>
+<cluster>
+    <nodo1>
+        <datos nombre="nodo1" ip="192.168.56.1"></datos>
+        <maquinas_virtuales>
+            <m1 nombre="maquina1" S.O="W">
+                <interfaz_red ip="10.3.30.157" mac=" 74-D4-35-2E-57-56"></interfaz_red>
+                <interfaz_red2 ip="10.3.30.160" mac=" 74-D4-35-2E-57-59"></interfaz_red2>
+            </m1>
+            <m2 nombre="maquina2" S.O="L">
+                <interfaz_red ip="10.3.30.158" mac=" 74-D4-35-2E-57-57"></interfaz_red>
+            </m2>
+            <m3 nombre="maquina3" S.O="L">
+                <interfaz_red ip="10.3.30.159" mac=" 74-D4-35-2E-57-58"></interfaz_red>
+            </m3>
+        </maquinas_virtuales>
+    </nodo1>
+    <nodo2>
+        <datos nombre="nodo2" ip="192.168.56.1"></datos>
+        <maquinas_virtuales>
+            <m1 nombre="maquina1" S.O="W">
+                <interfaz_red ip="10.3.30.157" mac=" 74-D4-35-2E-57-56"></interfaz_red>
+                <interfaz_red2 ip="10.3.30.160" mac=" 74-D4-35-2E-57-59"></interfaz_red2>
+            </m1>
+            <m2 nombre="maquina2" S.O="L">
+                <interfaz_red ip="10.3.30.158" mac=" 74-D4-35-2E-57-57"></interfaz_red>
+            </m2>
+            <m3 nombre="maquina3" S.O="L">
+                <interfaz_red ip="10.3.30.159" mac=" 74-D4-35-2E-57-58"></interfaz_red>
+            </m3>
+        </maquinas_virtuales>
+    </nodo2>
+    <nodo3>
+        <datos nombre="nodo3" ip="192.168.56.1"></datos>
+        <maquinas_virtuales>
+            <m1 nombre="maquina1" S.O="W">
+                <interfaz_red ip="10.3.30.157" mac=" 74-D4-35-2E-57-56"></interfaz_red>
+                <interfaz_red2 ip="10.3.30.160" mac=" 74-D4-35-2E-57-59"></interfaz_red2>
+            </m1>
+            <m2 nombre="maquina2" S.O="L">
+                <interfaz_red ip="10.3.30.158" mac=" 74-D4-35-2E-57-57"></interfaz_red>
+            </m2>
+            <m3 nombre="maquina3" S.O="L">
+                <interfaz_red ip="10.3.30.159" mac=" 74-D4-35-2E-57-58"></interfaz_red>
+            </m3>
+        </maquinas_virtuales>
+    </nodo3>
+    <nodo4>
+        <datos nombre="nodo4" ip="192.168.56.1"></datos>
+        <maquinas_virtuales>
+            <m1 nombre="maquina1" S.O="W">
+                <interfaz_red ip="10.3.30.157" mac=" 74-D4-35-2E-57-56"></interfaz_red>
+                <interfaz_red2 ip="10.3.30.160" mac=" 74-D4-35-2E-57-59"></interfaz_red2>
+            </m1>
+            <m2 nombre="maquina2" S.O="L">
+                <interfaz_red ip="10.3.30.158" mac=" 74-D4-35-2E-57-57"></interfaz_red>
+            </m2>
+            <m3 nombre="maquina3" S.O="L">
+                <interfaz_red ip="10.3.30.159" mac=" 74-D4-35-2E-57-58"></interfaz_red>
+            </m3>
+        </maquinas_virtuales>
+    </nodo4>
+    <nodo5>
+        <datos nombre="nodo5" ip="192.168.56.1"></datos>
+        <maquinas_virtuales>
+            <m1 nombre="maquina1" S.O="W">
+                <interfaz_red ip="10.3.30.157" mac=" 74-D4-35-2E-57-56"></interfaz_red>
+                <interfaz_red2 ip="10.3.30.160" mac=" 74-D4-35-2E-57-59"></interfaz_red2>
+            </m1>
+            <m2 nombre="maquina2" S.O="L">
+                <interfaz_red ip="10.3.30.158" mac=" 74-D4-35-2E-57-57"></interfaz_red>
+            </m2>
+            <m3 nombre="maquina3" S.O="L">
+                <interfaz_red ip="10.3.30.159" mac=" 74-D4-35-2E-57-58"></interfaz_red>
+            </m3>
+        </maquinas_virtuales>
+    </nodo5>
+</cluster>

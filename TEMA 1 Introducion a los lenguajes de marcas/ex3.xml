@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE empresa>
+<empresa>
+    <edificio1>
+        <datos direccion="C. Banda Sinfónica Municipal de Sevilla" numero_de_plantas="3"></datos>
+            <planta numero="1" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+            <planta numero="2" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+            <planta numero="3" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+    </edificio1>
+    <edificio2>
+        <datos direccion="C. Banda Sinfónica Municipal de Sevilla" numero_de_plantas="3"></datos>
+            <planta numero="1" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+            <planta numero="2" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+            <planta numero="3" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+    </edificio2>
+    <edificio3>
+        <datos direccion="C. Banda Sinfónica Municipal de Sevilla" numero_de_plantas="3"></datos>
+            <planta numero="1" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+            <planta numero="2" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+            <planta numero="3" metros_cuadrados="120">
+                <empleado1 dni="10000000a" nombre="a" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado1>
+                <empleado2 dni="10000000b" nombre="b" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado2>
+                <empleado3 dni="10000000c" nombre="c" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado3>
+                <empleado4 dni="10000000d" nombre="d" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado4>
+                <empleado5 dni="10000000e" nombre="e" edad="24" puesto="portero" extension_tfno_puesto="larga" ></empleado5>
+            </planta>
+    </edificio3>
+</empresa>
