@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shiporder  orderid="string"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="ej4.xsd">
+  <orderperson>string</orderperson>
+  <shipto>
+    <name>string</name>
+    <address>string</address>
+    <city>string</city>
+    <country>string</country>
+  </shipto>
+  <item>
+    <title>string</title>
+    <note>string</note>
+    <quantity>80</quantity>
+    <price>134.76</price>
+  </item>
+  <item>
+    <title>string</title>
+    <note>string</note>
+    <quantity>5</quantity>
+    <price>-59.2</price>
+  </item>
+  <item>
+    <title>string</title>
+    <note>string</note>
+    <quantity>2754</quantity>
+    <price>13.258</price>
+  </item>
+</shiporder>

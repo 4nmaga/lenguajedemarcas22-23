@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libro SYSTEM "ej2.dtd">
+<Libro Catalogo="adada">
+    <Titulo>Wfdfs</Titulo>
+    <Seccion>23</Seccion>
+    <SubSeccion>2</SubSeccion>
+    <Contenido>
+    <Capitulo materia="XML">
+         <Tema>wdada</Tema>
+    </Capitulo>
+</Contenido>
+<Copyright></Copyright>
+</Libro>
